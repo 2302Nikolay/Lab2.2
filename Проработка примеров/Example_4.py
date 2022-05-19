@@ -18,4 +18,4 @@ if __name__ == '__main__':
         if math.fabs(x - xp) < eps:
             break
 
-print(f"x = {x}\nX = {math.sqrt(a)}")
+    print(f"x = {x}\nX = {math.sqrt(a)}")
